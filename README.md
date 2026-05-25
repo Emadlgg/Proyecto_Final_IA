@@ -7,8 +7,7 @@ Sistema de recomendación musical personalizado que combina modelos de clasifica
 
 ## 🎬 Video Explicativo
 
-<!-- Reemplazar con el link real del video -->
-[📺 Ver video en YouTube / Drive](LINK_DEL_VIDEO_AQUÍ)
+[📺 Ver video en YouTube](https://youtu.be/NzsMGKM9M6M)
 
 ---
 
